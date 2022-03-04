@@ -1,0 +1,1 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Infinite-Improbability/phys413-LatticeSums/HEAD?labpath=LatticeSums.ipynb)
